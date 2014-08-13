@@ -18,6 +18,10 @@
 
 ^ E-Commerce is very complex. I promise you that no one here wants to build the exact some store as someone else. One person wants to offer (PayPal, Amazon, and Credit Card payments), someone else wants to offer discounted pricing to members, someone else wants to book massages online. WooCommerce is extensible. Very extensible.
 
+^ Who here already has a WooCommerce store?
+
+^ What type of store do you want to build?
+
 ---
 
 # Other E-Commerce Solutions:
@@ -55,11 +59,17 @@
 
 ---
 
+# Self Help
+
+![](assets/images/woocommerce-getting-started.png)
+
+---
+
 # [fit] Products
 
 ^ Okay so there are a couple ways you can add products to your store. The most obvious is to manually add products to your store.
 
-You can also import an XML file.
+^ You can also import an XML file.
 
 ---
 
@@ -69,7 +79,7 @@ You can also import an XML file.
 
 ^ If you already have a brick and mortar store you probably already have a merchant account. If that's the case you should go with a traditional gateway like Authorize.net. Authorize.net AIM for most cases or Authorize.net CIM for Subscriptions.
 
-If you don't have a brick and mortar store then go for a modern payment gateway. You hear every one talk about Stripe and they're pretty awesome. They're my second favorite. My favorite gateway for WooCommerce is Amazon Simple Pay. And the main reason is that it's offsite. Your user will be directed to checkout on Amazons servers. This way no matter what if your site is compromised your payments aren't.
+^ If you don't have a brick and mortar store then go for a modern payment gateway. You hear every one talk about Stripe and they're pretty awesome. They're my second favorite. My favorite gateway for WooCommerce is Amazon Simple Pay. And the main reason is that it's offsite. Your user will be directed to checkout on Amazons servers. This way no matter what if your site is compromised your payments aren't.
 
 ---
 
@@ -96,6 +106,14 @@ If you don't have a brick and mortar store then go for a modern payment gateway.
 
 ^ Once you have orders if you need to physically ship goods it's good to have one place to do it all. That's what the orders page is for.
 
+^ Show a customer note with a shipping confirmation number.
+
+---
+
+# Emails
+
+![](assets/images/woocommerce-email.png)
+
 ---
 
 # [fit] Taxes
@@ -103,6 +121,12 @@ If you don't have a brick and mortar store then go for a modern payment gateway.
 ^ Taxes are really easy once you get the data.
 
 ^ Taxjar is coming out soon. They'll update your tax rates automatically for you.
+
+---
+
+# TaxJar
+
+![](assets/images/taxjar.png)
 
 ---
 
@@ -118,6 +142,12 @@ If you don't have a brick and mortar store then go for a modern payment gateway.
 ^ There is one piece of reporting we have to setup. Google Analytics.
 
 ^ And another one that's already built into WooCommerce.
+
+---
+
+# WooCommerce Google Analytics Integration
+
+![](assets/images/woocommerce-google-analytics-integration-plugin.png)
 
 ---
 
