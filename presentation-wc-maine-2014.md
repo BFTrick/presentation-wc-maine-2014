@@ -2,7 +2,7 @@
 
 ### Patrick Rauland - @BFTrick
 
-### Slides: TODO
+###  http://speakinginbytes.com/2014/08/creating-your-online-store-woocommerce/
 
 ---
 
